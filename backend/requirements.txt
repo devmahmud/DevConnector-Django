@@ -1,4 +1,4 @@
-asgiref==3.2.5
+asgiref==3.2.10
 certifi==2019.11.28
 chardet==3.0.4
 coreschema==0.0.4
